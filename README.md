@@ -27,10 +27,9 @@ JavaScript
 Open index.html in your browser
 
 📁 Files
+
 index.html – Main page
-
 style.css – Styling
-
 script.js – Basic interactivity
 
 Note: This is a frontend-only project (no backend).
