@@ -1,6 +1,7 @@
 A responsive Amazon clone built using HTML, CSS, and JavaScript to replicate the look and feel of the Amazon e-commerce platform.
 \
 📌 Features
+
 🧭 Responsive Homepage layout
 
 🔍 Product search bar (UI only)
@@ -14,6 +15,7 @@ A responsive Amazon clone built using HTML, CSS, and JavaScript to replicate the
 🎨 Clean and user-friendly UI/UX
 
 🛠 Tech Used
+
 HTML5
 
 CSS3
@@ -21,7 +23,6 @@ CSS3
 JavaScript
 
 ▶️ How to Use
-Clone the repo
 
 Open index.html in your browser
 
